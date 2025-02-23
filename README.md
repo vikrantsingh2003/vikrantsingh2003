@@ -1,6 +1,7 @@
 # Hi there, I'm Vikrant Singh! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://github.com/vikrantsingh2003/vikrantsingh2003/blob/main/Banner.png.webp)
+
 
 ## 🚀 About Me
 
